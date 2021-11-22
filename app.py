@@ -20,7 +20,6 @@ session = Session(engine)
 
 # ----- Set up Flask -----
 app = Flask(__name__)
-
 #"Instance" is a general term in programming to refer to a singular version of something
 #The __name__ variable denotes the name of the function
 #Variables with underscores before and after them are called magic methods in Python
