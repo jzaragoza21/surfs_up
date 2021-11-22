@@ -26,3 +26,7 @@ The December temperature analysis mirrored the June analysis. However, the Decem
 
 ## Summary
 
+In analyzing both June and December temperatures, it is clear Oahu's weather is stable year around with the temperatures ranging from 56 to 85 degrees. Based this analysis alone, we would recommend that both a surf shop and ice cream shop would be sustainable year round. Before opening the shop, however, we recommend to additional queries be executed:
+
+1. Precipitation: the frequency and severity of rain would substantially impact a surf shop. We recommend doing this analysis before moving forward with the surf shop.
+2. Secondly, we should run a query on weather stations to identify weather patterns and which part of Oahu has the most severe weather activity. Perhaps this could help in idenitfying the most advantageous shop location by filtering down which area has the most stable weather patterns.
